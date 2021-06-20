@@ -50,3 +50,8 @@ Visualizations were created using PowerBI.
 #### Insights
 1) 56% of Players are Indians (264)
 2) Chirs Gayle got most no of Man Of The Match Awards (21)
+
+<br>
+<br>
+
+![built with love](https://forthebadge.com/images/badges/built-with-love.svg)
